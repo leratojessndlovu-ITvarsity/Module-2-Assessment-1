@@ -1,18 +1,22 @@
-# Zoo Website Project 🦁🐼🦒
+# Zoo Information Website 🦁🐼🦒
 
 ## Overview
-This project is a multi‑page **zoo information website** built with **HTML and CSS**.  
-It showcases different animals, attractions, and visitor facilities, providing a structured and engaging experience for users exploring the zoo online.
+This project is a multi-page informational website developed using HTML and CSS. 
+It showcases various zoo attractions, animal exhibits, and visitor facilities through a structured navigation system.
 
 ## Features
-- 🐘 **Animal Pages**: Dedicated pages for elephants, lions, giraffes, pandas, gorillas, koalas, monkeys, warthogs, gemsbok, and more.
-- 🌳 **Attractions**: Pages for the amphitheatre, lost forest, monkey trail, and insect house.
-- 🍕 **Dining Facilities**: Coffee shop, MO’s Pizza, and Dine @the Zoo.
-- 🌦️ **Visitor Services**: Weather updates, places to visit, feedback forms, and message confirmation.
-- 🎨 **Styling**: Consistent design across all pages using `style.css`.
+- Dedicated pages for multiple animals
+- Attraction and facility pages
+- Visitor service pages (feedback, weather, places)
+- Consistent styling using an external stylesheet
+- Organized folder structure for media
 
 ## Technologies Used
-- **HTML** (93.2%) – for structure and content.
-- **CSS** (6.8%) – for styling and layout.
+- HTML5 – structured page layout
+- CSS3 – styling and visual consistency
 
 ## Project Structure
+- index.html – Homepage
+- Multiple animal and facility pages
+- style.css – Main stylesheet
+- images/ – Media assets
